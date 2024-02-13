@@ -1,0 +1,7 @@
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\bin\Debug\ProjectTemplates\CSharp\1033\test_func_1.zip
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\_EmptyResource.resources
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\test_func_1.csproj.GenerateResource.cache
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\test_func_1.csproj.CoreCompileInputs.cache
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\CSharp\1033\test_func_1.zip
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\test_func_1.dll
+C:\Users\mateenma\Desktop\Edu\C++\test_func_1\test_func_1\obj\Debug\test_func_1.pdb

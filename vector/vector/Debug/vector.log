@@ -1,0 +1,3 @@
+﻿  vector.cpp
+C:\Users\mateenma\Desktop\Edu\C++\vector\vector\vector.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+  vector.vcxproj -> C:\Users\mateenma\Desktop\Edu\C++\vector\Debug\vector.exe
