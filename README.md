@@ -27,3 +27,6 @@ The exercises includes,
 	- whileANDforLoops
 
 
+## Instuctions
+
+Each folder has an independent code that can be tested and updated. 
