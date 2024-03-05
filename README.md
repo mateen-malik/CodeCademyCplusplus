@@ -30,3 +30,6 @@ The exercises includes,
 ## Instuctions
 
 Each folder has an independent code that can be tested and updated. 
+
+## ToDo
+Look into how to clon a single folder and work with it and update it to github?
